@@ -1,16 +1,15 @@
-# 👋 Hey there, I’m Aashrith Raj Tatipamula (aka @Tabulater)
+# Hey there, I’m Aashrith Raj Tatipamula
 
 ## 🧠 About Me
 - 🎓 Student @ Mother Teresa Catholic Secondary School  
 - 📜 History Buff | 👨‍💻 Aspiring Mechatronics Engineer  
 - 💻 Currently diving into: **Python**, **JavaScript**, **Typescript** and **HTML**  
-- 🤝 Open to collaborations on creative coding projects  
-- 🛠️ Working on blending tech + impact
-
-## 📫 Connect With Me
-- 🌐 Portfolio: [aashrithrajtatipamula.vercel.app](https://aashrithrajtatipamula.vercel.app/)
-- 💼 LinkedIn: [linkedin.com/in/aashrith-raj-tatipamula](https://www.linkedin.com/in/aashrith-raj-tatipamula/)
-- 📩 Email: napoleonbonaporte42@gmail.com
+- 🤝 Open to collaborations on creative coding projects
+  
+## Connect With Me
+- Portfolio: [aashrithrajtatipamula.vercel.app](https://aashrithrajtatipamula.vercel.app/)
+- LinkedIn: [linkedin.com/in/aashrith-raj-tatipamula](https://www.linkedin.com/in/aashrith-raj-tatipamula/)
+- Email: napoleonbonaporte42@gmail.com
 
 > “Code the past. Engineer the future.” — Me probably
 
