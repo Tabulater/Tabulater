@@ -9,7 +9,7 @@
 ## Connect With Me
 - Portfolio: [aashrithrajtatipamula.vercel.app](https://aashrithrajtatipamula.vercel.app/)
 - LinkedIn: [linkedin.com/in/aashrith-raj-tatipamula](https://www.linkedin.com/in/aashrith-raj-tatipamula/)
-- Email: napoleonbonaporte42@gmail.com
+- Email: tatipamula.aashrithraj@gmail.com
 
 > “Code the past. Engineer the future.” — Me probably
 
