@@ -1,13 +1,18 @@
-- 👋 Hi, I’m @Tabulater
-- 👀 I’m interested in History and Progamming espically Python
-- 🌱 I’m currently learning Python, Java Script, and HTML
-- 💞️ I’m looking to collaborate on future ideas
-- 📫 How to reach me - napoleonbonaporte42@gmail.com
+# 👋 Hey there, I’m Aashrith Raj Tatipamula (aka @Tabulater)
 
-Follow me on Quora: https://www.quora.com/profile/Tabulator
-My Quora Space: https://wartimeverizon.quora.com/
-My Blog for School Assignments: https://schoolworkcoach.blogspot.com/
-My Stack overflow Profile: https://stackoverflow.com/users/19796667/tabulator
+## 🧠 About Me
+- 🎓 Student @ Mother Teresa Catholic Secondary School  
+- 📜 History Buff | 👨‍💻 Aspiring Mechatronics Engineer  
+- 💻 Currently diving into: **Python**, **JavaScript**, **Typescript** and **HTML**  
+- 🤝 Open to collaborations on creative coding projects  
+- 🛠️ Working on blending tech + impact
+
+## 📫 Connect With Me
+- 🌐 Portfolio: [aashrithrajtatipamula.vercel.app](https://aashrithrajtatipamula.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/aashrith-raj-tatipamula](https://www.linkedin.com/in/aashrith-raj-tatipamula/)
+- 📩 Email: napoleonbonaporte42@gmail.com
+
+> “Code the past. Engineer the future.” — Me probably
 
 <!---
 Tabulater/Tabulater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
