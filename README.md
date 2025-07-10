@@ -1,6 +1,6 @@
 # Hey there, I’m Aashrith Raj Tatipamula
 
-##About Me
+## About Me
 - 🎓 Student @ Mother Teresa Catholic Secondary School  
 - 📜 History Buff | 👨‍💻 Aspiring Mechatronics Engineer  
 - 💻 Currently diving into: **Python**, **JavaScript**, **Typescript** and **HTML**  
